@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>addEmployeeDetailsFromDataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>116a7a96-a9d4-40b8-833b-6dc549692fbb</testCaseGuid>
+   <variable>
+      <defaultValue>'dimuthu'</defaultValue>
+      <description></description>
+      <id>c9386b68-e2c0-432f-b976-8c20551f13b2</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'nalaka'</defaultValue>
+      <description></description>
+      <id>7ff2cb0b-ed6e-4c93-ba19-c31209434d77</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>25</defaultValue>
+      <description></description>
+      <id>7755f78a-4e90-4354-af25-d54d04a9c56d</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+</TestCaseEntity>
