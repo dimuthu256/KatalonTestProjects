@@ -2,7 +2,7 @@
 ----- STEPS TO DO -----
 
 1. Download the Jar file and execute it [java -jar EmployeeDetails.jar]
-2. This will up and running on Port 5001
+2. This will up and running on Port 5001 [http://localhost:5001/swagger-ui.html]
 3. Open the SampleKatalonProject and execute Katalon Test Causes
 
 
