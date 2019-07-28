@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>addEmployeeDetails_failed</name>
+   <tag>employee_details</tag>
+   <comment></comment>
+   <testCaseGuid>fd21d8c7-d59e-4b3e-b8f7-fe7ea8ed80ae</testCaseGuid>
+</TestCaseEntity>
